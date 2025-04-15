@@ -14,3 +14,18 @@
 | [Henrique Yuri Cawamura Seppelfelt](https://github.com/HenriqueSeppelfelt) | 24.00545-2 |
 |      [Mateus Martins Gonçalves Dóro ](https://github.com/mateusmats)       | 24.00553-3 |
 |            [Pedro Correia ](https://github.com/PedroCorreia73)             | 24.00845-0 |
+
+<!-- Parceria -->
+
+## 🤝 Parceria
+
+<div align="center" style="display: flex; flex-direction: row; align-items: center; width: 100%; justify-content: center; gap: 16px; flex-wrap: wrap;">
+    <!-- IMT -->
+    <a href="https://www.maua.br" target="_blank">
+        <img height="112px" src="../assets/images/logo/logo-IMT.png">
+    </a>
+    <!-- Poliedro -->
+    <a href="https://www.colegiopoliedro.com.br" target="_blank">
+        <img height="112px" src="../assets/images/logo/logo-Poliedro.svg">
+    </a>
+</div>
